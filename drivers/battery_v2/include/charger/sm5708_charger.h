@@ -22,7 +22,7 @@
 #include <linux/mfd/core.h>
 #include <linux/mfd/sm5708/sm5708.h>
 #include <linux/regulator/machine.h>
-#include "include/sec_charging_common.h"
+#include <linux/battery/sec_charging_common.h>
 
 /* CONFIG: Kernel Feature & Target System configuration */
 
